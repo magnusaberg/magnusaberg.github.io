@@ -1,3 +1,8 @@
+---
+layout: post
+title: ... and Hello to you!
+---
+
 All right!
 
 This is the first one, the post that sets it all.
