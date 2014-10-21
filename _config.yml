@@ -18,14 +18,14 @@ avatar: https://avatars1.githubusercontent.com/u/491592?v=2&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: himself@magnusaberg.me
+  email: 
   facebook: 
   flickr: 
   github: magnusaberg
   instagram: 
   linkedin: 
   pinterest: 
-  rss: 
+  rss: http://magnusaberg.me/feed
   # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: _magic_man_
   stackoverflow: 
