@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I like to read blogs and sexy PDFs all night and all day, mostly about some divine technique in some random language.
+History, freedom and philosophy all shaped and formed in a computer geeks brain who's focused in building things with code.
