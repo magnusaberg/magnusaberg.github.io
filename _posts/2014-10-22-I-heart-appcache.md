@@ -7,7 +7,6 @@ published: true
 date: 2014-10-22
 ---
 
-#I &#9825; Appcache or Application Cache
 One of my favourite things, are optimization of a website (or anything really).
 I love to reduce the milliseconds. That's why appcache tastes so good.
 
