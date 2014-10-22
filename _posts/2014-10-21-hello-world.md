@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ... and Hello to you!
+category: brainfart
 ---
 
 All right!
