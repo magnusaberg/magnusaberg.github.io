@@ -1,8 +1,8 @@
 ---
 layout: post
 title: I &#9825; Appcache
-category: brainfart
-tags: [personal, happiness, about this blog]
+category: Appcache
+tags: [html5, optimization, performance, client, browser, frontend, cahce]
 published: false
 date: #someday
 ---
