@@ -3,7 +3,8 @@ layout: post
 title: ... and Hello to you!
 category: brainfart
 tags: [personal, happiness, about this blog]
-published: false
+published: true
+date: 2014-10-21
 ---
 
 All right!
