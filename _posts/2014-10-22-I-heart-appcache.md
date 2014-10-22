@@ -4,7 +4,7 @@ title: I &#9825; Appcache
 category: Appcache
 tags: [html5, optimization, performance, client, browser, frontend, cahce]
 published: true
-date: #someday
+date: 2014-10-22
 ---
 
 #I &#9825; Appcache or Application Cache
