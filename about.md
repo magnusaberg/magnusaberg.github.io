@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Magnus Åberg
 permalink: /about/
 ---
 
