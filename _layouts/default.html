@@ -7,7 +7,7 @@
 
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <meta name="author" content="{{ site.name }}" />
+    <meta name="author" content="Magnus Åberg" />
     <meta name="description" content="{{ site.description }}">
     <meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
@@ -35,7 +35,7 @@
 {% if page.image %}
   <meta content="{{ site.url }}/assets/img/posts/{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="https://avatars1.githubusercontent.com/u/491592?v=2&s=460" property="og:image">
+  <meta content="{{ site.avatar }}" property="og:image">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
