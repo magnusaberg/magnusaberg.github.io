@@ -26,7 +26,7 @@ footer-links:
   instagram: 
   linkedin: magicman
   pinterest: 
-  rss: http://blog.magnusaberg.me/feed
+  rss: http://magnusaberg.me/feed
   # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: _magic_man_
   stackoverflow: 
@@ -40,14 +40,14 @@ google_analytics: UA-49967989-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://blog.magnusaberg.me
+url: http://magnusaberg.me
 domain: http://magnusaberg.me
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://blog.magnusaberg.me"
+baseurl: "http://magnusaberg.me"
 
 #
 # !! You don't need to change any of the configuration flags below !!
